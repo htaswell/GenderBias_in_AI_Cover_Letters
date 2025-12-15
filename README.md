@@ -11,7 +11,7 @@ python3 /.../python_files/HT_ML_part1.py
   --out-dir "/.../Desktop"
   --iterations n
 ```
-Step 2: Analyze with zero shot classification. If analyzing more than one file (prompt response), place the files into a folder before hand and select option 2 when prompted. Follow instructions as prompted
+Step 2: Analyze with zero shot classification. If analyzing more than one file (e.g. DS_female.csv, DS_male.csv), place the files into a folder before hand and select option 2 when prompted. Follow instructions as prompted
 ```
 python3 /.../python_files/HT_ML_part2.py 
 ```

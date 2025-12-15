@@ -1,7 +1,7 @@
 # Gender Bias in AI Cover Letters
 Study on whether gender bias (in the form of sociolinguistic differences) are present in AI generated cover letters that are generated from otherwise identical prompts.
 
-## Data collection:
+## How to recreate this study:
 There are three python files that will collect the responses(1), analyze them with zero-shot classification(2), and then organize the results(3). All three are run from the terminal with the following commands:
 
 Step 1: Data Collection 

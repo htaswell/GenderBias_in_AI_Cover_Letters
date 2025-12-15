@@ -7,6 +7,7 @@ There are three python files that will collect the responses(1), analyze them wi
 Step 1: Data Collection 
  ```
 python3 /.../python_files/HT_ML_part1.py
+  --prompts-csv "/.../Desktop/prompt.csv" 
   --api-key "YOUR KEY HERE"
   --out-dir "/.../Desktop"
   --iterations n

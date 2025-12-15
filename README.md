@@ -22,5 +22,6 @@ python3 /.../python_files/HT_ML_part3.py
 ```
 
 ## To view machine learning models and analysis, run the python file named Machine_Learning_Analysis.py
+Ensure that you change the file path in the script to reflect where you have stored the raw csv datafiles, named DS_female.csv, DS_male.csv, rec_female.csv, rec_male.csv, card_female.csv, and card_male.csv
 
 ## See commit notes for information on where to find raw AI generated data, analysis etc.

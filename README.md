@@ -21,4 +21,6 @@ Step 3: Organize results. Follow instructions as prompted
 python3 /.../python_files/HT_ML_part3.py 
 ```
 
+## To view machine learning models and analysis, run the python file named Machine_Learning_Analysis.py
+
 ## See commit notes for information on where to find raw AI generated data, analysis etc.

@@ -15,3 +15,5 @@ Step 2: Analyze with zero shot classification. If analyzing more than one file (
 
 Step 3: Organize results. Follow instructions as prompted
   python3 /.../python_files/HT_ML_part3.py
+
+See commit notes for information on where to find raw AI generated data, analysis etc.
